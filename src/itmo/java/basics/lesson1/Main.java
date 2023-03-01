@@ -136,8 +136,6 @@ public class Main {
 
         System.out.println(x);
 
-        //Hello from itmo branch.
-        // it's fixed!
     }
 
 }
